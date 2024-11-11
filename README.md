@@ -7,4 +7,3 @@ Key features:
 - Simple use of Angular components and data binding.
 - Tailwind CSS for responsive and modern UI design.
 - A beginner-friendly project for understanding Angular's core concepts.
->>>>>>> 03bdc82f5742b78d79940ef4ed1d1705572aee99
